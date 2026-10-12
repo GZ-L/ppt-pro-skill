@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Pro Skill"
+  short_description: "Confirmed PPT production with style-library matching and director QA."
+  default_prompt: "Use $ppt-pro-skill to turn my source material into a beautiful presentation. Ask me to confirm page count, format, and style before generating."
